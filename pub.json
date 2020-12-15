@@ -1,0 +1,6 @@
+ {
+  "name": "OKTestPool",
+  "description": "The public pool that okex tests",
+  "ticker": "OKPUB",
+  "homepage": "https://okex.com"
+  }
