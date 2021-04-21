@@ -1,7 +1,1 @@
-{
-  "name": "OKExTest",
-  "description": "The pool that tests all the pools",
-  "ticker": "OKT",
-  "homepage": "https://okex.com"
-}
-
+{"ticker":"OKEx","name":"OKExPool","description":"Public pool for OKEx","homepage":"https://www.okex.win/"}
